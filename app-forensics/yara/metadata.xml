@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<herd>no-herd</herd>
+	<maintainer>
+		<email>tony.czeh@gmail.com</email>
+		<name>Tony Czeh</name>
+	</maintainer>
+	<use>
+		<flag name='cuckoo'>Enables cuckoo module</flag>
+		<flag name='magic'>Enables magic module</flag>
+		<flag name='openssl'>Builds features dependent on OpenSSL</flag>
+		<flag name='python'>Enables python support</flag>
+	</use>
+	<upstream>
+		<changelog>https://github.com/plusvic/yara/releases</changelog>
+	</upstream>
+</pkgmetadata>
