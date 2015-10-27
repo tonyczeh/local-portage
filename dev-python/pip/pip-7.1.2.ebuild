@@ -2,7 +2,7 @@
 #                   Arfrever Frehtes Taifersar Arahesis
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI="5-progress"
+EAPI="5"
 PYTHON_ABI_TYPE="multiple"
 PYTHON_RESTRICTED_ABIS="3.1"
 
